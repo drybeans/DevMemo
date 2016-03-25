@@ -40,3 +40,5 @@
 - 最后执行：cmake -DCMAKE_TOOLCHAIN_FILE="../../CMake/toolchain/android.toolchain.cmake" -DOGRE_DEPENDENCIES_DIR="../../AndroidDependencies" -DANDROID_ABI=armeabi-v7a  -DANDROID_NATIVE_API_LEVEL=17 -DANDROID_TOOLCHAIN_NAME=arm-linux-androideabi-4.8 ../..
   - 其中“-DANDROID_NATIVE_API_LEVEL=17“，这个17需要保证mac上设置了android sdk路径以及有sdk这个版本(Android-4.2)
 - 执行：~/Documents/AndroidDev/android-ndk-r9d/prebuilt/darwin-x86_64/bin/make
+
+> 如有需要，需设置(export) ANDROID_NDK ANDROID_SDK 
