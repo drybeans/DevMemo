@@ -33,3 +33,8 @@ target 'XXXXUITests' do
 
 end
 ```
+
+###iOS可持续化集成
+- [iOS可持续化集成: Jenkins+bundler+cocoapods+fastlane](http://www.cocoachina.com/ios/20150728/12733.html)
+- [iOS continuous delivery with Jenkins and Fastlane](https://labs.kunstmaan.be/blog/ios-continuous-delivery-with-jenkins-and-fastlane)
+- [CI server on Mac OS for iOS using GitLab and Fastlane](http://indeema.com/blog/ci-server-on-mac-os-for-ios-using-gitlab-and-fastlane)
