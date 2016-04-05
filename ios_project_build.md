@@ -2,7 +2,6 @@
 
 CocoaPods安装：
 - [CocoaPods安装和使用教程](http://code4app.com/article/cocoapods-install-usage)
-- [iOS可持续化集成](http://blog.csdn.net/colorapp/article/details/47007329)
 - [iOS项目工作空间搭建](http://www.cnblogs.com/songxing10000/p/4930824.html)
 - [Cocoapods配置文件Podfile编写](http://blog.csdn.net/clwahaha/article/details/22193873)
 - [设置git/npm/bower/gem镜像或代理方法](https://segmentfault.com/a/1190000002435496)
