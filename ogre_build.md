@@ -42,3 +42,6 @@
 - 执行：~/Documents/AndroidDev/android-ndk-r9d/prebuilt/darwin-x86_64/bin/make
 
 > 如有需要，需设置(export) ANDROID_NDK ANDROID_SDK 
+
+####可用链接
+- [Ogre源码编译教程](http://www.cnblogs.com/woud/p/4749340.html)
