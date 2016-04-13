@@ -19,7 +19,7 @@
 - 拷贝[OgreDependencies](https://github.com/drybeans/OgreDependencies)目录下的iOSDependencies目录(打开里面的dmg文件，拷贝include以及lib出来)到Ogre源代码目录下（和OgreMain同级目录）
 - 安装命令行cmake（通过[Homebrew](http://www.jianshu.com/p/f9b2c74cb519)或其他方式均可）
 - 在Ogre目录下mkdir -p Buils/iOS && cd Builds/iOS
-- 执行：cmake -D OGRE_BUILD_PLATFORM_APPLE_IOS=1 -G Xcode ../..
+- 执行：cmake -D OGRE_BUILD_PLATFORM_APPLE_IOS=1 OGRE_CONFIG_ENABLE_LIBCPP_SUPPORT=1 -G Xcode ../..
 - 在Buils/iOS目录下双击OGRE.xcodeproj即可
 
 > 编译的过程中会提示：iOSDendencies中有几个依赖库不支持armv7，但是是支持arm64的。
