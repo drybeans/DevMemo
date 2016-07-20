@@ -1,19 +1,23 @@
-android-ndk
-flatbuffers
-gearvrf
-gearvrf-demos
-glew
-glfw
-gvr-android-sdk
-gvr-unity-sdk
-gvr-ios-sdk
-libyuv
-ogl
-rapidjson
-styleguide
+- [android-ndk](https://github.com/googlesamples/android-ndk)
+- [flatbuffers](https://github.com/google/flatbuffers)
+- [gearvrf](https://github.com/Samsung/GearVRf)
+- [gearvrf-demos](https://github.com/gearvrf/GearVRf-Demos)
+- [glew](https://github.com/nigels-com/glew)
+- [glfw](https://github.com/glfw/glfw)
+- [glm](https://github.com/g-truc/glm)
+- [gvr-android-sdk](https://github.com/googlevr/gvr-android-sdk)
+- [gvr-unity-sdk](https://github.com/googlevr/gvr-unity-sdk)
+- [gvr-ios-sdk](https://github.com/googlevr/gvr-ios-sdk)
+- [libyuv](https://github.com/drybeans/libyuv)
+- [ogl](https://github.com/opengl-tutorials/ogl)
+- [rapidjson](https://github.com/miloyip/rapidjson)
+- [styleguide](https://github.com/google/styleguide)
+- [awesome-opengl](https://github.com/eug/awesome-opengl)
 
-android-dev
-new-arch
-ogre-deps
-renaissance
-wifiworld
+- [gl3w](https://github.com/skaslev/gl3w)
+
+- [android-dev](https://github.com/drybeans/android-dev)
+- new-arch
+- [ogre-deps](https://github.com/drybeans/ogre-deps)
+- renaissance
+- wifiworld
