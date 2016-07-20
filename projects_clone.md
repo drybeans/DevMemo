@@ -5,6 +5,7 @@
 - [glew](https://github.com/nigels-com/glew)
 - [glfw](https://github.com/glfw/glfw)
 - [glm](https://github.com/g-truc/glm)
+- [assimp](https://github.com/assimp/assimp)
 - [gvr-android-sdk](https://github.com/googlevr/gvr-android-sdk)
 - [gvr-unity-sdk](https://github.com/googlevr/gvr-unity-sdk)
 - [gvr-ios-sdk](https://github.com/googlevr/gvr-ios-sdk)
