@@ -37,3 +37,9 @@ end
 - [iOS可持续化集成: Jenkins+bundler+cocoapods+fastlane](http://www.cocoachina.com/ios/20150728/12733.html)
 - [iOS continuous delivery with Jenkins and Fastlane](https://labs.kunstmaan.be/blog/ios-continuous-delivery-with-jenkins-and-fastlane)
 - [CI server on Mac OS for iOS using GitLab and Fastlane](http://indeema.com/blog/ci-server-on-mac-os-for-ios-using-gitlab-and-fastlane)
+
+###iOS-OpenGLES工程搭建
+- [iOS使用Workspace来管理多项目](http://blog.csdn.net/cga6741011/article/details/50385022)
+- [\[IOS\] Xcode创建子工程以及工程依赖](http://blog.csdn.net/u012703795/article/details/24978403)
+- [iOS下OpenGL ES 3.0编程入门](http://www.th7.cn/Program/IOS/201508/521719.shtml)
+- [OpenGL ES Programming Guide for iOS](https://developer.apple.com/library/prerelease/content/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/DrawingWithOpenGLES/DrawingWithOpenGLES.html#//apple_ref/doc/uid/TP40008793-CH503-SW5)
